@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Laptop_Recommendation_System_Using_Google_API and ML Model.iml" filepath="$PROJECT_DIR$/.idea/Laptop_Recommendation_System_Using_Google_API and ML Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Movie_Recommendation_System/.idea/Movie_Recommendation_System.iml" filepath="$PROJECT_DIR$/../../Movie_Recommendation_System/.idea/Movie_Recommendation_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Movie_Recommendation_System/pythonProject1/.idea/pythonProject1.iml" filepath="$PROJECT_DIR$/../../Movie_Recommendation_System/pythonProject1/.idea/pythonProject1.iml" />
     </modules>
   </component>
 </project>
