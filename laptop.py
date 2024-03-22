@@ -40,8 +40,8 @@ def recommend(price, laptops):
 
 
 def search_google_image(query):
-    api_key = 'AIzaSyBWmiK6lpcdkP-YYI9UMtzJojvoFSHpaO0'
-    cse_id = 'e465b812daba544b5'
+    # api_key = 'AIzaSyCrOIklqgXwxh_3Y6zgQlj5RYlKqS_W6ag'
+    # cse_id = 'e465b812daba544b5'
     search_type = 'image'
     # Append "laptop" to the query to narrow down the search to laptop images
     refined_query = f"{query} laptop"
